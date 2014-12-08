@@ -1,0 +1,6 @@
+[ENGINE]
+Response File Version=1.0.0.0.0
+ 
+[GENERIC]
+ORACLE_HOME=/u01/oracle/fmw_osb
+INSTALL_TYPE=Service Bus
